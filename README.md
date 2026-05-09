@@ -38,7 +38,7 @@ I'm a passionate Full-Stack Developer with a strong foundation in modern web tec
     <td width="50%">
       <h3 align="center">🤖 AI-Powered Resume Builder</h3>
       <p align="center">
-        <a href="https://prashantparshuramkar.host20.uk/Resume-builder/" target="_blank">
+        <a href="https://resume.zapsas.info/" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge" alt="Live Demo"/>
         </a>
       </p>
@@ -48,7 +48,7 @@ I'm a passionate Full-Stack Developer with a strong foundation in modern web tec
     <td width="50%">
       <h3 align="center">📷 Automated Image Fetcher</h3>
       <p align="center">
-        <a href="https://aif.zapsas.life/" target="_blank">
+        <a href="https://aif.zapsas.info/" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge" alt="Live Demo"/>
         </a>
       </p>
